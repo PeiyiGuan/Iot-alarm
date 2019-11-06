@@ -11,7 +11,7 @@ Then start the server:
 
 ## Start the alarm in pi
 
-Compile the application with ```makr``` command.
+Compile the application with ```make``` command.
 then Run the application :
 ```./tester```
 
